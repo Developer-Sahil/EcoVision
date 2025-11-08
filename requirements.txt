@@ -1,0 +1,8 @@
+tensorflow>=2.20.0
+flask
+flask-cors
+opencv-python
+numpy
+matplotlib
+pillow
+werkzeug
