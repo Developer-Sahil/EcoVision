@@ -1,0 +1,18 @@
+# Large files
+DATASET.zip
+DATASET/
+waste_classifier_model.h5
+
+# Uploads folder
+uploads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
