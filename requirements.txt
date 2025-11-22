@@ -2,7 +2,7 @@ tensorflow>=2.20.0
 flask
 flask-cors
 opencv-python-headless==4.8.1.78
-numpy
+numpy>=1.23.0,<2.0.0
 pillow
 werkzeug
 gunicorn
