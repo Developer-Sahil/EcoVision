@@ -10,8 +10,3 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
-    # Add disk storage for model file
-    disk:
-      name: ecovision-model
-      mountPath: /opt/render/project/src
-      sizeGB: 1
